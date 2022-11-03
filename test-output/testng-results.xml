@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98328" started-at="2022-08-18T23:05:36Z" finished-at="2022-08-18T23:07:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98328" started-at="2022-08-18T23:05:36Z" finished-at="2022-08-18T23:07:14Z">
+      <class name="end2endtesting.E2ETestproject.Homepage">
+        <test-method status="PASS" signature="basePageNavigation()" name="basePageNavigation" duration-ms="98300" started-at="2022-08-18T23:05:36Z" finished-at="2022-08-18T23:07:14Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
